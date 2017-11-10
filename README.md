@@ -43,7 +43,7 @@ Based on the pros and cons presented in Table 1, Indie selected the Citrix NetSc
 The following links will take you to the Considerations and Caveats for each option within a design component category:
 
 * ![Compute](#compute)
-* Load Balancer
+* ![Load Balancer](#load_balancer)
 * Firewall
 * Virtual Private Network (VPN)
 * Compute (servers)
@@ -58,7 +58,7 @@ The following links will take you to the Considerations and Caveats for each opt
 
 ![Compute Options](/images/rainbow_tool_compute.png)
 
-### <a name="load_balancerb"></a> Load Balancer
+### <a name="load_balancer"></a> Load Balancer
 
 #### Considerations and Caveats
 
