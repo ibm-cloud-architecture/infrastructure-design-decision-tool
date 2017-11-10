@@ -6,7 +6,7 @@ The Design Decision Tool contains the potential advantages and disadvantages of 
 
 The Design Decision Tool supports the infrastructure process (Figure 1) by stepping you through each component of your infrastructure to help you determine which options to use based on your requirements.  You are encouraged to use the design process and decision tool when designing your IaaS.
 
-![Figure 1: IaaS design process](/imgs/rainbow_tool_fig1.png)
+![Figure 1: IaaS design process](/images/rainbow_tool_fig1.png)
 
 Figure 1: IaaS design Process
 
@@ -18,7 +18,7 @@ Indie Tix is an online ticket retailer that promotes indie music to mainstream l
 
 They will be designing an architecture based on three tiers – web, application, and database - based on their current and future needs. The tiers are divided into three layers – presentation (web), business (application), and data (database) – with a server residing in each. Figure 2 illustrates Indie Tix’s architecture.
 
-![Figure 2: Indie Tix's 3-tier architecture design](s/rainbow_tool_fig2.png)
+![Figure 2: Indie Tix's 3-tier architecture design](/images/rainbow_tool_fig2.png)
 
 Figure 2: Indie Tix's 3-tier architecture design
 
