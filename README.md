@@ -31,4 +31,4 @@ The first component to be determined is the global load balancer, which has the 
 * Support highly variable and unpredictable compute requirements
 
 
-![Figure 3: Compute Options](/images/rainbow_tool_compute_options.png)
+![Figure 3: Compute Options](/images/rainbow_tool_compute.png)
