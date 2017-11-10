@@ -30,5 +30,22 @@ The first component to be determined is the global load balancer, which has the 
 * Support 7,500 unique shoppers daily and 100 connections per second
 * Support highly variable and unpredictable compute requirements
 
+## IaaS Components
+
+The following links will take you to the Considerations and Caveats for each option within a design component category:
+
+* ![Compute](#compute)
+* Load Balancer
+* Firewall
+* Virtual Private Network (VPN)
+* Compute (servers)
+* Storage
+* Backup
+* Disaster Recovery (DR)
+* Reverse Proxy
+
+### <a name="compute"/a> Compute
+
+#### Considerations and Caveats
 
 ![Figure 3: Compute Options](/images/rainbow_tool_compute.png)
