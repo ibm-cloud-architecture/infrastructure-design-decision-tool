@@ -8,7 +8,7 @@ The Design Decision Tool supports the infrastructure process (Figure 1) by stepp
 
 ![Figure 1: IaaS design process](/images/rainbow_tool_fig1.png)
 
-Figure 1: IaaS design Process
+Figure 1: IaaS design process
 
 A high-level example of an e-commerce workload has been provided to assist you with the Design Decision Tool. After reviewing the example you can then apply the concepts to your workload. 
 
@@ -30,3 +30,5 @@ The first component to be determined is the global load balancer, which has the 
 * Support 7,500 unique shoppers daily and 100 connections per second
 * Support highly variable and unpredictable compute requirements
 
+
+![Figure 3: Compute Options](/images/rainbow_tool_compute_options.pdf)
