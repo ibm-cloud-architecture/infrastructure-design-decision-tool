@@ -6,6 +6,6 @@ The Design Decision Tool contains the potential advantages and disadvantages of 
 
 The Design Decision Tool supports the infrastructure process (Figure 1) by stepping you through each component of your infrastructure to help you determine which options to used based on your requirements.  You are encouraged to use the design process and decision tool when designing your IaaS.
 
-![Figure 1: IaaS design process](https://github.ibm.com/jay-warfield/design-decision-tool/imgs/rainbow_tool_fig1.png)
+![IaaS design process](https://github.ibm.com/jay-warfield/design-decision-tool/blob/master/imgs/rainbow_tool_fig1.png)
 
 A high-level example of an e-commerce workload has been provided to assist you with the Design Decision Tool. After reviewing the example, you can than apply its tenants to your workload. Please be aware that more information is provided in the SoftLayer Solutions Design training class.
