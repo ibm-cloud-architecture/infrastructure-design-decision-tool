@@ -44,7 +44,7 @@ The following links will take you to the Considerations and Caveats for each opt
 * Disaster Recovery (DR)
 * Reverse Proxy
 
-### <a name="compute"/a> Compute
+### <a name="compute"></a> Compute
 
 #### Considerations and Caveats
 
