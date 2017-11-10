@@ -30,6 +30,14 @@ The first component to be determined is the global load balancer, which has the 
 * Support 7,500 unique shoppers daily and 100 connections per second
 * Support highly variable and unpredictable compute requirements
 
+After selecting the load balancer link and reviewing the Considerations and Caveats for each option, your choices should be narrowed down to:
+
+
+
+Table 1: Global load balancer options for Indie Tix
+
+Based on the pros and cons presented in Table 1, Indie selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on the IaaS design requirement. 
+
 ## IaaS Components
 
 The following links will take you to the Considerations and Caveats for each option within a design component category:
@@ -48,4 +56,10 @@ The following links will take you to the Considerations and Caveats for each opt
 
 #### Considerations and Caveats
 
-![Figure 3: Compute Options](/images/rainbow_tool_compute.png)
+![Compute Options](/images/rainbow_tool_compute.png)
+
+### <a name="load_balancerb"></a> Load Balancer
+
+#### Considerations and Caveats
+
+![Load Balancer Options](/images/rainbow_tool_load_balancer.png)
