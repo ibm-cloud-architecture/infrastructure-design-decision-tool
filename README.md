@@ -1,6 +1,6 @@
 # Design Decision Tool for IaaS on IBM Cloud
 
-The Design Decision Tool contains the potential advantages and disadvantages of the available components used for designing and building your infrastructure as a Service (IaaS) on IBM Cloud.  Use this information during your solution design to help select the best options to meet your workload requirements.  More information is provided in the [IaaS Solutions Design training class] (http://www.softlayer.com/training-courses) which takes you through hands-on workshops to assist you with making architecture choices for your IaaS.
+The Design Decision Tool contains the potential advantages and disadvantages of the available components used for designing and building your infrastructure as a Service (IaaS) on IBM Cloud.  Use this information during your solution design to help select the best options to meet your workload requirements.  More information is provided in the [IaaS Solutions Design training class](http://www.softlayer.com/training-courses) which takes you through hands-on workshops to assist you with making architecture choices for your IaaS.
 
 ## How to use the Design Decision Tool 
 
