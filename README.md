@@ -30,9 +30,14 @@ The first component to be determined is the global load balancer, which has the 
 * Support 7,500 unique shoppers daily and 100 connections per second
 * Support highly variable and unpredictable compute requirements
 
-After selecting the load balancer link and reviewing the Considerations and Caveats for each option, your choices should be narrowed down to:
+Select ![Load Balancer Options](#load_balancer) link and review the Considerations and Caveats for each option.  Your choices should be narrowed down to:
 
-
+| Options | Positives/Negatives |
+| ------- | ------------------- |
+| Dyn.com | 
+* + Geolocation and ratio/weight balancing capable
+* - No provisioning on the private network
+|
 
 Table 1: Global load balancer options for Indie Tix
 
