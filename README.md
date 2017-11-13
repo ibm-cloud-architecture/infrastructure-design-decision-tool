@@ -34,11 +34,9 @@ Select ![Load Balancer Options](#load_balancer) link and review the Consideratio
 
 | Options | Positives/Negatives |
 | ------- | ------------------- |
-| Dyn.com | 
-* + Geolocation and ratio/weight balancing capable
-* - No provisioning on the private network
-|
-
+(| Dyn.com | (+)Geolocation and ratio/weight balancing capable, (-)No provisioning on the private network |
+| NginX | (+)Geolocation and ratio/weight balancing capable, (-)Higher maintenance (must manage operating system as well), (-)No management console (CLI and configuration files only) |
+| Citrix NetScaler VPX | (+)GSLB protects against failures of servers and sites, (+)Geolocation and ratio/weight balancing capable, (+)Virutal appliance = low maintenance, (-) Requires an appliance, or appliances, for each site |
 Table 1: Global load balancer options for Indie Tix
 
 Based on the pros and cons presented in Table 1, Indie selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on the IaaS design requirement. 
