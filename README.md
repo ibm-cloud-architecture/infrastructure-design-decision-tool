@@ -50,7 +50,7 @@ The following links will take you to the Considerations and Caveats for each opt
 * ![VPN Options](#vpn)
 * ![Load Balancer Options](#load_balancer)
 * ![Reverse Proxy Options](#reverse_proxy)
-* ![Direct Link Options](#direct_link)
+* ![Connectivity Options](#connectivity)
 
 ### <a name="compute"></a> Compute Options
 
@@ -84,8 +84,8 @@ The following links will take you to the Considerations and Caveats for each opt
 
 ![Reverse Proxy Options](/images/rainbow_tool_reverse_proxy.png)
 
-### <a name="direct_link"></a> Direct Link Options
+### <a name="connectivity"></a> Connectivity Options
 
-![Direct Link Options](/images/rainbow_tool_direct_link.png)
+![Connectivity Options](/images/rainbow_tool_connectivity.png)
 
 
