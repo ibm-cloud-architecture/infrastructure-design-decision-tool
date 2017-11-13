@@ -32,7 +32,7 @@ The first component to be determined is the global load balancer, which has the 
 
 Select ![Load Balancer Options](#load_balancer) link and review the Considerations and Caveats for each option.  Your choices should be narrowed down to:
 
-| Options | Positives/Negatives |
+| Options | Pros(+)/Cons(-) |
 | ------- | ------------------- |
 | Dyn.com | (+)Geolocation and ratio/weight balancing capable, (-)No provisioning on the private network |
 | NginX | (+)Geolocation and ratio/weight balancing capable, (-)Higher maintenance (must manage operating system as well), (-)No management console (CLI and configuration files only) |
