@@ -50,6 +50,7 @@ The following links will take you to the Considerations and Caveats for each opt
 * ![Storage Options](#storage)
 * ![Backup Options](#backup)
 * ![Disaster Recovery Options](#disaster_recovery)
+* ![Message Queues Options](#message_queues)
 * ![Firewall Options](#firewall)
 * ![VPN Options](#vpn)
 * ![Load Balancer Options](#load_balancer)
@@ -71,6 +72,10 @@ The following links will take you to the Considerations and Caveats for each opt
 ### <a name="diaster_recover"></a> Disaster Recovery Options
 
 ![Disastery Recovery Options](/images/rainbow_tool_disaster_recovery.png)
+
+### <a name="message_queues"></a> Message Queues Options
+
+![Message Queues Options](/images/rainbow_tool_message_queues.png)
 
 ### <a name="firewall"></a> Firewall Options
 
