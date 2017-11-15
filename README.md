@@ -2,7 +2,7 @@
 
 ## IaaS Components
 
-Refer to [Design Decision Tool Usage](usage.md) for an introduction and example of using the following design component categories with Considerations and Caveats for the primary options available within each category:
+Refer to [Design Decision Tool Usage](usage.md) for an introduction and example of using the following design component categories with considerations and caveats for the primary options available within each category:
 
 * ![Compute Options](#compute)
 * ![Storage Options](#storage)
