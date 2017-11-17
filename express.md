@@ -14,7 +14,7 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 * ![Load Balancer Options](#load_balancer)
 * ![Reverse Proxy Options](#reverse_proxy)
 * ![CDN Options](#cdn)
-* ![Connectivity Options](#connectivity)
+* ![Direct Link Options](#directlink)
 
 ### <a name="compute"></a> Compute Options
 
@@ -42,4 +42,19 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 
 ![VPN Options 1](/images/express_tool_vpn1.png)
 ![VPN Options 2](/images/express_tool_vpn2.png)
+
+### <a name="load_balancer"></a> Load Balancer Options
+
+![Load Balancer Options 1](/images/express_tool_load_balancer1.png)
+![Load Balancer Options 2](/images/express_tool_load_balancer2.png)
+
+### <a name="reverse_proxy"></a> Reverse Proxy Options
+
+![Reverse Proxy Options 1](/images/express_tool_reverse_proxy1.png)
+![Reverse Proxy Options 2](/images/express_tool_reverse_proxy2.png)
+
+### <a name="direct_link"></a> Direct Link Options
+
+![Direct Link Options 1](/images/express_tool_direct_link1.png)
+![Direct Link Options 2](/images/express_tool_direct_link2.png)
 
