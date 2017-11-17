@@ -2,9 +2,9 @@
 
 ## Compute Options
 
-### Express Format
-![Express Format](/images/express_tool_compute.png)
-
 ### Descriptive Format
 ![Descriptive Format](/images/rainbow_tool_compute.png)
+
+### Bullet Format
+![Bullet Format](/images/express_tool_compute.png)
 
