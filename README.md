@@ -18,11 +18,11 @@ The Design Decision Tool includes considerations and caveats for the primary opt
 
 ### <a name="compute"></a> Compute Options
 
-![Compute](/images/rainbow_tool_compute.png)
+![Compute Options](/images/rainbow_tool_compute.png)
 
 ### <a name="storage"></a> Storage Options
 
-![Storage](/images/rainbow_tool_storage.png)
+![Storage Options](/images/rainbow_tool_storage.png)
 
 ### <a name="backup"></a> Backup Options
 

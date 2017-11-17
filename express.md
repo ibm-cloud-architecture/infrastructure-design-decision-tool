@@ -18,10 +18,19 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 
 ### <a name="compute"></a> Compute Options
 
-![Compute](/images/express_tool_compute.png)
+![Compute Options](/images/express_tool_compute.png)
 
 ### <a name="storage"></a> Storage Options
 
-![Storage1](/images/express_tool_storage1.png)
-![Storage2](/images/express_tool_storage2.png)
+![Storage Options 1](/images/express_tool_storage1.png)
+![Storage Options 2](/images/express_tool_storage2.png)
+
+### <a name="storage"></a> Backup Options
+
+![Backup1](/images/express_tool_backup1.png)
+![Backup2](/images/express_tool_backup2.png)
+
+### <a name="storage"></a> Disaster Recovery Options
+
+![Disaster Recovery Options](/images/express_tool_disaster_recovery.png)
 
