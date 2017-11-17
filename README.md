@@ -12,6 +12,7 @@ Refer to [Design Decision Tool Usage](usage.md) for an introduction and example 
 * ![VPN Options](#vpn)
 * ![Load Balancer Options](#load_balancer)
 * ![Reverse Proxy Options](#reverse_proxy)
+* ![CDN Options](#cdn)
 * ![Connectivity Options](#connectivity)
 
 ### <a name="compute"></a> Compute Options
@@ -45,6 +46,10 @@ Refer to [Design Decision Tool Usage](usage.md) for an introduction and example 
 ### <a name="reverse_proxy"></a> Reverse Proxy Options
 
 ![Reverse Proxy Options](/images/rainbow_tool_reverse_proxy.png)
+
+### <a name="cdn"></a> CDN Options
+
+![CDN Options](/images/rainbow_tool_cdn.png)
 
 ### <a name="connectivity"></a> Connectivity Options
 
