@@ -27,8 +27,7 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 
 ### <a name="storage"></a> Backup Options
 
-![Backup1](/images/express_tool_backup1.png)
-![Backup2](/images/express_tool_backup2.png)
+![Backup Options](/images/express_tool_backup.png)
 
 ### <a name="storage"></a> Disaster Recovery Options
 
