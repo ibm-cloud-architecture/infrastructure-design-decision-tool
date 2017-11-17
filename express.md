@@ -19,3 +19,7 @@ Refer to [Design Decision Tool Usage](usage.md) for an introduction and example 
 
 ![Compute](/images/express_tool_compute.png)
 
+### <a name="storage"></a> Storage Options
+
+![Storage](/images/express_tool_storage.png)
+
