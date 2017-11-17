@@ -22,5 +22,6 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 
 ### <a name="storage"></a> Storage Options
 
-![Storage](/images/express_tool_storage.png)
+![Storage1](/images/express_tool_storage1.png)
+![Storage2](/images/express_tool_storage2.png)
 
