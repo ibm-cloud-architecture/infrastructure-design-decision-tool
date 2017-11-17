@@ -33,3 +33,13 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 
 ![Disaster Recovery Options](/images/express_tool_disaster_recovery.png)
 
+### <a name="firewall"></a> Firewall Options
+
+![Firewall Options 1](/images/express_tool_firewall1.png)
+![Firewall Options 2](/images/express_tool_firewall2.png)
+
+### <a name="vpn"></a> VPN Options
+
+![VPN Options 1](/images/express_tool_storage1.png)
+![VPN Options 2](/images/express_tool_storage2.png)
+
