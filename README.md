@@ -2,7 +2,10 @@
 
 ## IaaS Components
 
-Refer to [Design Decision Tool Usage](usage.md) for an introduction and example of using the following design component categories with considerations and caveats for the primary options available within each category:
+The Design Decision Tool includes considerations and caveats for the primary options available within each design component category.
+Refer to [Design Decision Tool Usage](usage.md) for an introduction and example of using the Design Decision Tool.
+Switch to [Design Decision Express Tool](express.md) for an at-a-glance format of the Design Decision Tool.
+
 
 * ![Compute Options](#compute)
 * ![Storage Options](#storage)
