@@ -14,7 +14,7 @@ The Design Decision Tool includes considerations and caveats for the primary opt
 * ![Load Balancer Options](#load_balancer)
 * ![Reverse Proxy Options](#reverse_proxy)
 * ![CDN Options](#cdn)
-* ![Connectivity Options](#connectivity)
+* ![Direct Link Options](#direct_link)
 
 ### <a name="compute"></a> Compute Options
 
@@ -52,8 +52,8 @@ The Design Decision Tool includes considerations and caveats for the primary opt
 
 ![CDN Options](/images/rainbow_tool_cdn.png)
 
-### <a name="connectivity"></a> Connectivity Options
+### <a name="direct_link"></a> Direct Link Options
 
-![Connectivity Options](/images/rainbow_tool_connectivity.png)
+![Direct Link Options](/images/rainbow_tool_direct_link.png)
 
 

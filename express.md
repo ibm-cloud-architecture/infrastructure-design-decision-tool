@@ -50,11 +50,9 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 
 ### <a name="reverse_proxy"></a> Reverse Proxy Options
 
-![Reverse Proxy Options 1](/images/express_tool_reverse_proxy1.png)
-![Reverse Proxy Options 2](/images/express_tool_reverse_proxy2.png)
+![Reverse Proxy Options](/images/express_tool_reverse_proxy.png)
 
 ### <a name="direct_link"></a> Direct Link Options
 
-![Direct Link Options 1](/images/express_tool_direct_link1.png)
-![Direct Link Options 2](/images/express_tool_direct_link2.png)
+![Direct Link Options](/images/express_tool_direct_link.png)
 
