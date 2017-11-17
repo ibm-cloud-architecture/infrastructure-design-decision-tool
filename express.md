@@ -40,6 +40,6 @@ The Design Decision Express Tool includes considerations and caveats for the pri
 
 ### <a name="vpn"></a> VPN Options
 
-![VPN Options 1](/images/express_tool_storage1.png)
-![VPN Options 2](/images/express_tool_storage2.png)
+![VPN Options 1](/images/express_tool_vpn1.png)
+![VPN Options 2](/images/express_tool_vpn2.png)
 
