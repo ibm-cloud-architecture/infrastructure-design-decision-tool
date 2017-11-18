@@ -2,7 +2,6 @@
 
 ## IaaS Components
 
-* [Example Usage](example_usage.md)
 * [Compute Options](compute_options.md)
 * [Storage Options](storage_options.md)
 * [Backup Options](backup_options.md)
@@ -14,4 +13,5 @@
 * ![CDN Options](cdn_options.md)
 * ![BYOIP Options](byoip_options.md)
 * ![Direct Link Options](direct_link_options.md)
+* [Example Usage](example_usage.md)
 
