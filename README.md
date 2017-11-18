@@ -2,18 +2,16 @@
 
 ## IaaS Components
 
-The Design Decision Tool includes considerations and caveats for the primary options available within each design component category.  Refer to [Design Decision Tool Usage](usage.md) for an introduction and example of using the Design Decision Tool.
-
+# [Example Usage](example_usage.md)
 * [Compute Options](compute_options.md)
 * [Storage Options](storage_options.md)
 * [Backup Options](backup_options.md)
 * [Disaster Recovery Options](disaster_recovery_options.md)
-
-Following being converted to new format like above:
-* ![Firewall Options](#firewall)
-* ![VPN Options](#vpn)
-* ![Load Balancer Options](#load_balancer)
-* ![Reverse Proxy Options](#reverse_proxy)
-* ![CDN Options](#cdn)
-* ![Direct Link Options](#direct_link)
+* ![Firewall Options](firewall_options.md)
+* ![VPN Options](vpn_options.md)
+* ![Load Balancer Options](load_balancer_options.md)
+* ![Reverse Proxy Options](reverse_proxy_options.md))
+* ![CDN Options](cdn_options.md)
+* ![BYOIP Options](byoip_options.md)
+* ![Direct Link Options](direct_link_options.md)
 
