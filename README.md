@@ -1,6 +1,6 @@
 # Design Decision Tool for IaaS on IBM Cloud
 
-## IaaS Components
+## Components
 
 * [Compute Options](compute_options.md)
 * [Storage Options](storage_options.md)
