@@ -6,9 +6,9 @@ The Design Decision Tool includes considerations and caveats for the primary opt
 
 * [Compute Options](compute_options.md)
 * [Storage Options](storage_options.md)
+* [Backup Options](backup_options.md)
+* [Disaster Recovery Options](disaster_recovery_options.md)
 
-* ![Backup Options](#backup)
-* ![Disaster Recovery Options](#disaster_recovery)
 * ![Firewall Options](#firewall)
 * ![VPN Options](#vpn)
 * ![Load Balancer Options](#load_balancer)
