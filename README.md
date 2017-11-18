@@ -2,7 +2,7 @@
 
 ## IaaS Components
 
-# [Example Usage](example_usage.md)
+* [Example Usage](example_usage.md)
 * [Compute Options](compute_options.md)
 * [Storage Options](storage_options.md)
 * [Backup Options](backup_options.md)
