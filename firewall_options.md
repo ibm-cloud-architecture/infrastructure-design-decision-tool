@@ -1,9 +1,9 @@
 # IBM Cloud Design Decision Tool - Firewall
 
 ## Highlights
-![Bullet Format](/images/express_tool_firewall.png)
+![Highlights](/images/express_tool_firewall.png)
 
 ## Descriptions
-![Descriptive Format](/images/rainbow_tool_firewall.png)
+![Descriptions](/images/rainbow_tool_firewall.png)
 
 Return to [Main Menu](README.md)
