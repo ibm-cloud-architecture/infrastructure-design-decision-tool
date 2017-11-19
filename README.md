@@ -9,13 +9,9 @@
 * [Firewall Options](firewall_options.md)
 * [VPN Options](vpn_options.md)
 * [Load Balancer Options](load_balancer_options.md)
-* [Reverse Proxy Options](reverse_proxy_options.md)
 * [CDN Options](cdn_options.md)
 * [BYOIP Options](byoip_options.md)
 * [Direct Link Options](direct_link_options.md)
 * [Message Queues Options](message_queues_options.md)
-
-## Examples
-
 * [Example Usage](example_usage.md)
 
