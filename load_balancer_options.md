@@ -1,11 +1,9 @@
-# Design Decision Tool for IaaS on IBM Cloud
+# IBM Cloud Design Decision Tool - Load Balancer
 
-## Load Balancer Options
-
-### Highlights
+## Highlights
 ![Bullet Format](/images/express_tool_load_balancer.png)
 
-### Descriptions
+## Descriptions
 ![Descriptive Format](/images/rainbow_tool_load_balancer.png)
 
 Return to [Main Menu](README.md)

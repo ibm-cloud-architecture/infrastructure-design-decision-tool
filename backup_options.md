@@ -1,11 +1,9 @@
-# Design Decision Tool for IaaS on IBM Cloud
+# IBM Cloud Design Decision Tool - Backup
 
-## Backup Options
-
-### Highlights
+## Highlights
 ![Bullet Format](/images/express_tool_backup.png)
 
-### Descriptions
+## Descriptions
 ![Descriptive Format](/images/rainbow_tool_backup.png)
 
 Return to [Main Menu](README.md)

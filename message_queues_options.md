@@ -1,11 +1,9 @@
-# Design Decision Tool for IaaS on IBM Cloud
+# IBM Cloud Design Decision Tool - Message Queues
 
-## Message Queues Options
-
-### Descriptive Format
-![Descriptive Format](/images/rainbow_tool_message_queues.png)
-
-### Bullet Format
+## Highlights
 ![Bullet Format](/images/express_tool_message_queues.png)
+
+## Descriptions
+![Descriptive Format](/images/rainbow_tool_message_queues.png)
 
 Return to [Main Menu](README.md)
