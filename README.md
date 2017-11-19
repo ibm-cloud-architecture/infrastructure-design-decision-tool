@@ -2,18 +2,17 @@
 
 | Components |
 | ---------- |
-| [Compute Options](compute_options.mdR) |
-| [Storage Options](storage_options.mdR) |
-
-
-* [Backup Options](backup_options.md)
-* [Disaster Recovery Options](disaster_recovery_options.md)
-* [Firewall Options](firewall_options.md)
-* [VPN Options](vpn_options.md)
-* [Load Balancer Options](load_balancer_options.md)
-* [CDN Options](cdn_options.md)
-* [BYOIP Options](byoip_options.md)
-* [Direct Link Options](direct_link_options.md)
-* [Message Queues Options](message_queues_options.md)
-* [Example Usage](example_usage.md)
+| [Compute](compute_options.md) |
+| [Storage](storage_options.md) |
+| [Backup](backup_options.md) |
+| [Disaster Recovery](disaster_recovery_options.md) |
+| [Firewall](firewall_options.md) |
+| [VPN](vpn_options.md) |
+| [Load Balancer](load_balancer_options.md) |
+| [CDN](cdn_options.md) |
+| [BYOIP](byoip_options.md) |
+| [Direct Link](direct_link_options.md) |
+| [Message Queues](message_queues_options.md) |
+| |
+| [Examples](example_usage.md) |
 
