@@ -1,11 +1,9 @@
-# Design Decision Tool for IaaS on IBM Cloud
+# IBM Cloud Design Decision Tool - Compute
 
-## Compute Options
-
-### Highlights
+## Highlights
 ![Bullet Format](/images/express_tool_compute.png)
 
-### Descriptions
+## Descriptions
 ![Descriptive Format](/images/rainbow_tool_compute.png)
 
 Return to [Main Menu](README.md)

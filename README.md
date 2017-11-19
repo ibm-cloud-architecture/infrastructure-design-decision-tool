@@ -1,4 +1,4 @@
-# Design Decision Tool for IaaS on IBM Cloud
+# IBM Cloud Design Decision Tool
 
 ## Components
 
