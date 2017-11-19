@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - CDN
+# IBM Cloud Design Decision Tool - Content Delivery Network
 
 ## Highlights
 ![Bullet Format](/images/express_tool_cdn.png)

@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - VPN
+# IBM Cloud Design Decision Tool - Virtual Private Network
 
 ## Highlights
 ![Bullet Format](/images/express_tool_vpn.png)
