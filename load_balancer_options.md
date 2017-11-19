@@ -2,10 +2,10 @@
 
 ## Load Balancer Options
 
-### Bullet Format
+### Highlights
 ![Bullet Format](/images/express_tool_load_balancer.png)
 
-### Descriptive Format
+### Descriptions
 ![Descriptive Format](/images/rainbow_tool_load_balancer.png)
 
 Return to [Main Menu](README.md)
