@@ -1,9 +1,11 @@
 # IBM Cloud Design Decision Tool
 
-## Components
+| Components |
+| ---------- |
+| [Compute Options](compute_options.mdR) |
+| [Storage Options](storage_options.mdR) |
 
-* [Compute Options](compute_options.md)
-* [Storage Options](storage_options.md)
+
 * [Backup Options](backup_options.md)
 * [Disaster Recovery Options](disaster_recovery_options.md)
 * [Firewall Options](firewall_options.md)
