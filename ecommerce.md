@@ -30,4 +30,4 @@ Table 1: Global load balancer options for Indie Tix
 
 Based on the pros and cons presented in Table 1, Indie selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on the IaaS design requirement. 
 
-Return to [Main Menu](README.md)
+Return to [Components](README.md)
