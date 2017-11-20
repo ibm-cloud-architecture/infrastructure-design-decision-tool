@@ -6,4 +6,4 @@
 ## Descriptions
 ![Descriptions](/images/rainbow_tool_disaster_recovery.png)
 
-Return to [Main Menu](README.md)
+Return to [Components](README.md)

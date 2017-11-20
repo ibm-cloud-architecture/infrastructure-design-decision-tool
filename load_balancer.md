@@ -6,4 +6,4 @@
 ## Descriptions
 ![Descriptions](/images/rainbow_tool_load_balancer.png)
 
-Return to [Main Menu](README.md)
+Return to [Components](README.md)
