@@ -10,9 +10,9 @@
 | [VPN](vpn.md) |
 | [Load Balancer](load_balancer.md) |
 
-| Example |
+| Examples |
 | ------- |
-| [Example](example.md) |
+| [E-commerce](ecommerce.md) |
 
 | Topics |
 | ------ |
