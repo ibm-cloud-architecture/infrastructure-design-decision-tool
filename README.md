@@ -16,6 +16,6 @@
 | [Message Queues](message_queues.md) | Review message queues options |
 
 | Examples | Description |
-| --- |
+| --- | --- |
 | [E-commerce](ecommerce.md) | Example of E-commerce architecture |
 
