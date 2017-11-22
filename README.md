@@ -1,4 +1,4 @@
-# [IBM Cloud Design Decision Tool](intro.md)
+# IBM Cloud Design Decision Tool
 
 | Components | Description |
 | --- | --- |
