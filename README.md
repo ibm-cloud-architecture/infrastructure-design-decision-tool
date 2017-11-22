@@ -4,16 +4,16 @@
 | --- | --- |
 | [Introduction](intro.md) | Introduction to using tool |
 | [Availability](availability.md) | Review availability topics |
-| [Backup](backup.md) | Review backup options |
-| [Compute](compute.md) | Review compute options |
-| [Direct Link](direct_link.md) | Review direct link options |
-| [Disaster Recovery](disaster_recovery.md) | Review disaster recovery options |
-| [Firewall](firewall.md) | Review firewall options |
-| [Load Balancer](load_balancer.md) | Review load balancer options |
-| [Storage](storage.md) | Review storage options |
-| [VPN](vpn.md) | Review VPN options |
-| [CDN](cdn.md) | Review CDN options |
-| [Message Queues](message_queues.md) | Review message queues options |
+| [Backup](backup.md) | Review options for backup |
+| [Compute](compute.md) | Review options for virtual and bare metal servers |
+| [Direct Link](direct_link.md) | Review options for direct link connectivity |
+| [Disaster Recovery](disaster_recovery.md) | Review options for disaster recovery |
+| [Firewall](firewall.md) | Review options for firewalls |
+| [Load Balancer](load_balancer.md) | Review options for local and global load balancers |
+| [Storage](storage.md) | Review options for storage |
+| [VPN](vpn.md) | Review options for VPN |
+| [CDN](cdn.md) | Review options for CDN |
+| [Message Queues](message_queues.md) | Review options for message queues |
 
 | Examples | Description |
 | --- | --- |
