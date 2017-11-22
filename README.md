@@ -2,7 +2,7 @@
 
 | Components | Description |
 | --- | --- |
-| [Introduction](intro.md) | Introduction |
+| [Introduction](intro.md) | Introduction to using tool |
 | [Availability](availability.md) | Review availability topics |
 | [Backup](backup.md) | Review backup options |
 | [Compute](compute.md) | Review compute options |
