@@ -9,6 +9,9 @@
 | [Firewall](firewall.md) |
 | [VPN](vpn.md) |
 | [Load Balancer](load_balancer.md) |
+| [Direct Link](direct_link.md) |
+| [CDN](cdn.md) |
+| [Message Queues](message_queues.md) |
 
 | Examples |
 | ------- |

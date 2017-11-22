@@ -1,9 +1,9 @@
 # IBM Cloud Design Decision Tool - CDN
 
-## Highlights
+## Highlights - TBD
 ![Highlights](/images/express_tool_cdn.png)
 
-## Descriptions
+## Descriptions - TBD
 ![Descriptions](/images/rainbow_tool_cdn.png)
 
 Return to [Components](README.md)
