@@ -1,20 +1,20 @@
 # [IBM Cloud Design Decision Tool](intro.md)
 
-| Components |
-| ---------- |
-| [Availability](availability.md) |
-| [Backup](backup.md) |
-| [Compute](compute.md) |
-| [Direct Link](direct_link.md) |
-| [Disaster Recovery](disaster_recovery.md) |
-| [Firewall](firewall.md) |
-| [Load Balancer](load_balancer.md) |
-| [Storage](storage.md) |
-| [Virtual Private Network](vpn.md) |
-| [Content Delivery Network](cdn.md) |
-| [Message Queues](message_queues.md) |
+| Components | Description |
+| --- | --- |
+| [Availability](availability.md) | Review availability topics |
+| [Backup](backup.md) | Review backup options |
+| [Compute](compute.md) | Review compute options |
+| [Direct Link](direct_link.md) | Review direct link options |
+| [Disaster Recovery](disaster_recovery.md) | Review disaster recovery options |
+| [Firewall](firewall.md) | Review firewall options |
+| [Load Balancer](load_balancer.md) | Review load balancer options |
+| [Storage](storage.md) | Review storage options |
+| [VPN](vpn.md) | Review VPN options |
+| [CDN](cdn.md) | Review CDN options |
+| [Message Queues](message_queues.md) | Review message queues options |
 
-| Examples |
-| ------- |
-| [E-commerce](ecommerce.md) |
+| Examples | Description |
+| --- |
+| [E-commerce](ecommerce.md) | Example of an E-commerce architecture |
 
