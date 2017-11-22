@@ -2,6 +2,7 @@
 
 | Components | Description |
 | --- | --- |
+| [Introduction](intro.md) | Introduction |
 | [Availability](availability.md) | Review availability topics |
 | [Backup](backup.md) | Review backup options |
 | [Compute](compute.md) | Review compute options |
@@ -16,5 +17,5 @@
 
 | Examples | Description |
 | --- |
-| [E-commerce](ecommerce.md) | Example of an E-commerce architecture |
+| [E-commerce](ecommerce.md) | Example of E-commerce architecture |
 
