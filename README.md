@@ -1,23 +1,20 @@
-# IBM Cloud Design Decision Tool
+# [IBM Cloud Design Decision Tool](intro.md)
 
 | Components |
 | ---------- |
-| [Compute](compute.md) |
-| [Storage](storage.md) |
+| [Availability](availability.md) |
 | [Backup](backup.md) |
+| [Compute](compute.md) |
+| [Direct Link](direct_link.md) |
 | [Disaster Recovery](disaster_recovery.md) |
 | [Firewall](firewall.md) |
-| [VPN](vpn.md) |
 | [Load Balancer](load_balancer.md) |
-| [Direct Link](direct_link.md) |
-| [CDN](cdn.md) |
+| [Storage](storage.md) |
+| [Virtual Private Network](vpn.md) |
+| [Content Delivery Network](cdn.md) |
 | [Message Queues](message_queues.md) |
 
 | Examples |
 | ------- |
-| [Introduction](introduction.md) |
 | [E-commerce](ecommerce.md) |
 
-| Topics |
-| ------ |
-| [Availability](availability.md) |
