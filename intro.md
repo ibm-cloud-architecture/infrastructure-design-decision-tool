@@ -8,7 +8,7 @@ The Design Decision Tool contains the potential advantages and disadvantages of 
 
 The Design Decision Tool supports the infrastructure process (Figure 1) by stepping you through each component of your infrastructure to help you determine which options to use based on your requirements.  You are encouraged to use the design process and decision tool when designing your IaaS.
 
-![Figure 1: IaaS design process](/images/rainbow_tool_fig1.png)
+![Figure 1: IaaS design process](/images/figure1.png)
 
 Figure 1: IaaS design process
 
