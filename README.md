@@ -17,5 +17,5 @@
 
 | Examples | Description |
 | --- | --- |
-| [E-commerce](ecommerce.md) | Example of E-commerce architecture |
+| [E-commerce](ecommerce.md) | Example of E-commerce architecture on IBM Cloud |
 
