@@ -1,8 +1,9 @@
 # IBM Cloud Design Decision Tool
 
+Use the IBM Cloud Design Decision Tool to compare your options for designing and building your IBM Cloud solution to help you in selecting the best options that meet your workload requirements.
+
 | Components | Description |
 | --- | --- |
-| [Introduction](intro.md) | Introduction to using tool |
 | [Availability](availability.md) | Review availability topics |
 | [Backup](backup.md) | Compare options for backup |
 | [Compute](compute.md) | Compare options for virtual and bare metal servers |

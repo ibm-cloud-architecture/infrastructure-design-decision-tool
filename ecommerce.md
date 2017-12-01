@@ -1,5 +1,23 @@
 # IBM Cloud Design Decision Tool - Example
 
+## Using the IBM Cloud Design Decision Tool
+
+The IBM Cloud Design Decision Tool contains the potential advantages and disadvantages of the available components that you can use for designing and building your IBM Cloud solution.  
+
+Use this information during your solution design to help select the best options to meet your workload requirements.  More information is provided in the [Solutions Design training class](http://www.softlayer.com/training-courses) which takes you through hands-on workshops to assist you with making architecture choices for your IBM Cloud solution.
+
+### How to use the Design Decision Tool
+
+The Design Decision Tool supports the solution design process (Figure 1) by stepping you through each component of your solution to help you determine which options to use based on your requirements.  You are encouraged to use the design process and decision tool when designing your IBM Cloud solution.
+
+![Figure 1: Solution design process](/images/figure1.png)
+
+Figure 1: Solution design process
+
+A high-level example workload has been provided to assist you with learning how to use the Design Decision Tool. After reviewing the example you can then apply the concepts to your workload.
+
+o
+
 ## Indie Tix, Online Ticket Retailer (e-Commerce Example)
 
 Indie Tix is an online ticket retailer that promotes indie music to mainstream listeners by putting on concerts in intimate venues (500 to 3,500 seats). In their current environment, they are facing increases in demand as indie artists are gaining popularity due to Internet exposure and mainstream air play.
@@ -28,6 +46,6 @@ Select ![Load Balancer Options](#load_balancer) link and review the Consideratio
 
 Table 1: Global load balancer options for Indie Tix
 
-Based on the pros and cons presented in Table 1, Indie selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on the IaaS design requirement. 
+Based on the pros and cons presented in Table 1, Indie selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on your solution design requirement. 
 
 Return to [Components](README.md)
