@@ -1,20 +1,20 @@
 # IBM Cloud Design Decision Tool
 
-Use the IBM Cloud Design Decision Tool to compare your options for designing and building your IBM Cloud solution to help you in selecting the best options that meet your workload requirements.
+Use the IBM Cloud Design Decision Tool to compare your options from the following components to help you in selecting the best options that meet your workload requirements for designing and building your ideal IBM Cloud solution.
 
-| Components | Description |
-| --- | --- |
-| [Compute](compute.md) | Compare options for virtual and bare metal servers |
-| [Storage](storage.md) | Compare options for storage |
-| [Backup](backup.md) | Compare options for backup |
-| [Disaster Recovery](disaster_recovery.md) | Compare options for disaster recovery |
-| [Firewall](firewall.md) | Compare options for firewalls |
-| [Virtual Private Network](vpn.md) | Compare options for VPN |
-| [Load Balancer](load_balancer.md) | Compare options for local and global load balancers |
-| [Direct Link](direct_link.md) | Compare options for direct link connectivity |
-| [Content Delivery Network](cdn.md) | Compare options for CDN |
-| [Bring Your Own IP](byoip.md) | Compare options for BYOIP |
-| [Message Queues](message_queues.md) | Compare options for message queues |
-| [Availability](availability.md) | Review availability topics |
-| [Examples](examples.md) | Examples of using IBM Cloud Design Decision Tool |
+| Components |
+| --- | 
+| [Compute](compute.md) | 
+| [Storage](storage.md) | 
+| [Backup](backup.md) | 
+| [Disaster Recovery](disaster_recovery.md) | 
+| [Firewall](firewall.md) | 
+| [Virtual Private Network](vpn.md) | 
+| [Load Balancer](load_balancer.md) | 
+| [Direct Link](direct_link.md) | 
+| [Content Delivery Network](cdn.md) | 
+| [Bring Your Own IP](byoip.md) | 
+| [Message Queues](message_queues.md) | 
+| [Availability](availability.md) | 
+| [Examples](examples.md) | 
 
