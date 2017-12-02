@@ -13,10 +13,8 @@ Use the IBM Cloud Design Decision Tool to compare your options for designing and
 | [Load Balancer](load_balancer.md) | Compare options for local and global load balancers |
 | [Direct Link](direct_link.md) | Compare options for direct link connectivity |
 | [Content Delivery Network](cdn.md) | Compare options for CDN |
+| [Bring Your Own IP](byoip.md) | Compare options for BYOIP |
 | [Message Queues](message_queues.md) | Compare options for message queues |
 | [Availability](availability.md) | Review availability topics |
-
-| Examples | Description |
-| --- | --- |
-| [E-commerce](ecommerce.md) | Example of E-commerce architecture on IBM Cloud |
+| [Examples](examples.md) | Examples of using IBM Cloud Design Decision Tool |
 
