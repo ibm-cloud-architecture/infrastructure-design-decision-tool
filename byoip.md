@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - BYOIP (Bring Your Own IP)
+# IBM Cloud Design Decision Tool - BYOIP
 
 ![Options](/images/byoip.png)
 

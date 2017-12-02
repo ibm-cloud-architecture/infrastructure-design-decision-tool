@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - VPN (Virtual Private Network)
+# IBM Cloud Design Decision Tool - VPN
 
 ![Options](/images/vpn.png)
 
