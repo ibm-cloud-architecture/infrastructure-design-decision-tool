@@ -9,6 +9,7 @@ Compare your alternatives from the following components to help you in designing
 [![Backup](/images/backup_icon.png)](backup.md) 
 [![Firewall](/images/firewall_icon.png)](firewall.md)
 [![VPN](/images/vpn_icon.png)](vpn.md)
+[![Load Balancer](/images/load_balancer_icon.png)](load_balancer.md)
 
 | Components |
 | --- |
