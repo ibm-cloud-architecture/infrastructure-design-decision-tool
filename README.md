@@ -4,18 +4,14 @@ Compare your alternatives from the following components to help you in designing
 
 ## Components
 
-### Compute
+### Compute and Storage
 [![Compute](/images/compute_icon.png)](compute.md)
-
-### Storage
 [![Storage](/images/storage_icon.png)](storage.md) 
 [![Backup](/images/backup_icon.png)](backup.md) 
 [![CDN](/images/cdn_icon.png)](cdn.md)
 
-### Security
+### Security and Availability
 [![Firewall](/images/firewall_icon.png)](firewall.md)
-
-### Availability
 [![Load Balancer](/images/load_balancer_icon.png)](load_balancer.md)
 [![Disaster Recovery](/images/disaster_recovery_icon.png)](disaster_recovery.md) 
 [![Availability](/images/availability_icon.png)](availability.md)
