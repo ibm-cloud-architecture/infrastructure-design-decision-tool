@@ -4,11 +4,10 @@ Compare your alternatives from the following components to help you in designing
 
 ## Components
 
-[![Compute](/images/compute_icon.png)](compute.md) [![Storage](/images/storage_icon.png)](storage.md)  
+[![Compute](/images/compute_icon.png)](compute.md) [![Storage](/images/storage_icon.png)](storage.md) [![Backup](/images/backup_icon.png)](backup.md) 
 
-| Components }
+| Components |
 | --- |
-| [Backup](backup.md) | 
 | [Disaster Recovery](disaster_recovery.md) | 
 | [Firewall](firewall.md) | 
 | [Virtual Private Network](vpn.md) | 
