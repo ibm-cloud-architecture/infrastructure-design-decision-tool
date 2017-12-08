@@ -5,7 +5,7 @@ Compare your alternatives from the following components to help you in designing
 | Components |
 | --- | 
 | [![Compute](/images/compute_icon.png)](compute.md) | 
-| [Storage](storage.md) | 
+| [![Storage](/images/storage_icon.png)](storage.md) | 
 | [Backup](backup.md) | 
 | [Disaster Recovery](disaster_recovery.md) | 
 | [Firewall](firewall.md) | 
