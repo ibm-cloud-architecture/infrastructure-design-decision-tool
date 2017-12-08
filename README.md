@@ -10,7 +10,7 @@ Compare your alternatives from the following components to help you in designing
 [![Firewall](/images/firewall_icon.png)](firewall.md)
 [![VPN](/images/vpn_icon.png)](vpn.md)
 [![Load Balancer](/images/load_balancer_icon.png)](load_balancer.md)
-[![CDN](/images/cdn_icon2.png)](cdn.md)
+[![CDN](/images/cdn_icon.png)](cdn.md)
 
 | Components |
 | --- |
