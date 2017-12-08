@@ -7,6 +7,7 @@ Compare your alternatives from the following components to help you in designing
 [![Compute](/images/compute_icon.png)](compute.md)
 [![Storage](/images/storage_icon.png)](storage.md) 
 [![Backup](/images/backup_icon.png)](backup.md) 
+[![Disaster Recovery](/images/disaster_recovery_icon.png)](disaster_recovery.md) 
 [![Firewall](/images/firewall_icon.png)](firewall.md)
 [![VPN](/images/vpn_icon.png)](vpn.md)
 [![Load Balancer](/images/load_balancer_icon.png)](load_balancer.md)
@@ -19,7 +20,7 @@ Compare your alternatives from the following components to help you in designing
 | [*Compute](compute.md) | 
 | [*Storage](storage.md) | 
 | [*Backup](backup.md) | 
-| [Disaster Recovery](disaster_recovery.md) | 
+| [*Disaster Recovery](disaster_recovery.md) | 
 | [*Firewall](firewall.md) | 
 | [*Virtual Private Network](vpn.md) | 
 | [*Load Balancer](load_balancer.md) | 
