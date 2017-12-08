@@ -13,6 +13,7 @@ Compare your alternatives from the following components to help you in designing
 [![Load Balancer](/images/load_balancer_icon.png)](load_balancer.md)
 [![Direct Link](/images/direct_link_icon.png)](direct_link.md)
 [![CDN](/images/cdn_icon.png)](cdn.md)
+[![BYOIP](/images/byoip_icon.png)](byoip.md)
 [![Message Queues](/images/message_queues_icon.png)](message_queues.md)
 
 | Components |
