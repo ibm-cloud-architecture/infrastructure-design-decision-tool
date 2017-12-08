@@ -15,6 +15,7 @@ Compare your alternatives from the following components to help you in designing
 [![CDN](/images/cdn_icon.png)](cdn.md)
 [![BYOIP](/images/byoip_icon.png)](byoip.md)
 [![Message Queues](/images/message_queues_icon.png)](message_queues.md)
+[![Availability](/images/availability_icon.png)](availability.md)
 
 | Components |
 | --- |
@@ -27,8 +28,8 @@ Compare your alternatives from the following components to help you in designing
 | [*Load Balancer](load_balancer.md) | 
 | [*Direct Link](direct_link.md) | 
 | [*Content Delivery Network](cdn.md) | 
-| [Bring Your Own IP](byoip.md) | 
+| [*Bring Your Own IP](byoip.md) | 
 | [*Message Queues](message_queues.md) | 
-| [Availability](availability.md) | 
+| [*Availability](availability.md) | 
 | [Examples](examples.md) | 
 
