@@ -16,20 +16,4 @@ Compare your alternatives from the following components to help you in designing
 [![BYOIP](/images/byoip_icon.png)](byoip.md)
 [![Message Queues](/images/message_queues_icon.png)](message_queues.md)
 [![Availability](/images/availability_icon.png)](availability.md)
-
-| Components |
-| --- |
-| [*Compute](compute.md) | 
-| [*Storage](storage.md) | 
-| [*Backup](backup.md) | 
-| [*Disaster Recovery](disaster_recovery.md) | 
-| [*Firewall](firewall.md) | 
-| [*Virtual Private Network](vpn.md) | 
-| [*Load Balancer](load_balancer.md) | 
-| [*Direct Link](direct_link.md) | 
-| [*Content Delivery Network](cdn.md) | 
-| [*Bring Your Own IP](byoip.md) | 
-| [*Message Queues](message_queues.md) | 
-| [*Availability](availability.md) | 
-| [Examples](examples.md) | 
-
+[![Examples](/images/examples_icon.png)](examples.md)
