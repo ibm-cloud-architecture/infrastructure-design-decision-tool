@@ -4,7 +4,7 @@ Compare your alternatives from the following components to help you in designing
 
 | Components |
 | --- | 
-| ![compute](/images/compute_icon.png)[Compute](compute.md) | 
+| ![Compute](/images/compute_icon.png)(compute.md) | 
 | [Storage](storage.md) | 
 | [Backup](backup.md) | 
 | [Disaster Recovery](disaster_recovery.md) | 
