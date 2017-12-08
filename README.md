@@ -2,10 +2,12 @@
 
 Compare your alternatives from the following components to help you in designing and building your ideal IBM Cloud solution that best meets your workload requirements:
 
-| Components |
-| --- | 
-| [![Compute](/images/compute_icon.png)](compute.md) | 
-| [![Storage](/images/storage_icon.png)](storage.md) | 
+## Components
+
+[![Compute](/images/compute_icon.png)](compute.md) [![Storage](/images/storage_icon.png)](storage.md)  
+
+| Components }
+| --- |
 | [Backup](backup.md) | 
 | [Disaster Recovery](disaster_recovery.md) | 
 | [Firewall](firewall.md) | 
