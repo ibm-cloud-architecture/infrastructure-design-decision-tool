@@ -4,7 +4,7 @@ Compare your alternatives from the following components to help you in designing
 
 ## Components
 
-| Primary | Security | Access | Other |
+| Base | Security | Access | Other |
 | --- | -- | -- | -- |
 | [![Compute](/images/compute_icon.png)](compute.md)  | [![Firewall](/images/firewall_icon.png)](firewall.md) | [![VPN](/images/vpn_icon.png)](vpn.md) | [![Message Queues](/images/message_queues_icon.png)](message_queues.md) |
 | [![Storage](/images/storage_icon.png)](storage.md) | [![Load Balancer](/images/load_balancer_icon.png)](load_balancer.md) | [![Direct Link](/images/direct_link_icon.png)](direct_link.md) | [![Examples](/images/examples_icon.png)](examples.md) |
