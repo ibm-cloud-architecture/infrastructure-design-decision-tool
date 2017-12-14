@@ -36,14 +36,14 @@ The first component to be determined is the global load balancer, which has the 
 
 Select [![Load Balancers](/images/load_balancer_icon.png)](load_balancer.md) and review the Considerations and Caveats for each option.  Your choices should be narrowed down to:
 
-| Options | Pros(+)/Cons(-) |
-| ------- | ------------------- |
-| Dyn.com | (+)Geolocation and ratio/weight balancing capable, (-)No provisioning on the private network |
-| NginX | (+)Geolocation and ratio/weight balancing capable, (-)Higher maintenance (must manage operating system as well), (-)No management console (CLI and configuration files only) |
-| Citrix NetScaler VPX | (+)GSLB protects against failures of servers and sites, (+)Geolocation and ratio/weight balancing capable, (+)Virutal appliance = low maintenance, (-)Requires an appliance, or appliances, for each site |
+| Options | Pros | Cons |
+| --- | --- | --- |
+| Dyn.com | Geolocation and ratio/weight balancing | No provisioning on private network |
+| NginX | Geolocation and ratio/weight balancing | Higher maintenance, No management console |
+| Citrix NetScaler VPX | Protects against failures of servers/sites, Geolocation and ratio/weight balancing, Lower maintenance | Requires an appliance(s) for each site |
 
 Table 1: Global load balancer options for online ticket retailer
 
-Based on the pros and cons presented in Table 1, they the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on your solution design requirement. 
+Based on the pros and cons presented in Table 1, they selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. Use the Design Decision Tool to match the best component option based on your solution design requirements. 
 
 Return to [Components](README.md)
