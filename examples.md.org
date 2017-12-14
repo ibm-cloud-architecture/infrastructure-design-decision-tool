@@ -16,15 +16,17 @@ Figure 1: Solution design process
 
 A high-level example workload has been provided to assist you with learning how to use the Design Decision Tool. After reviewing the example you can then apply the concepts to your workload.
 
-## Online Ticket Retailer
+o
 
-An online ticket retailer promotes music to mainstream listeners by putting on concerts in intimate venues (500 to 3,500 seats). In their current environment they are facing increases in demand as artists are gaining popularity due to Internet exposure and mainstream air play.
+## Indie Tix, Online Ticket Retailer (e-Commerce Example)
 
-They will be designing a 3-tier architecture - web, application, and database - based on their current and future needs. The tiers are divided into three layers – presentation (web), business (application), and data (database) – with a server residing in each. Figure 2 illustrates their architecture.
+Indie Tix is an online ticket retailer that promotes indie music to mainstream listeners by putting on concerts in intimate venues (500 to 3,500 seats). In their current environment, they are facing increases in demand as indie artists are gaining popularity due to Internet exposure and mainstream air play.
 
-![Figure 2: 3-tier architecture design](/images/figure3.png)
+They will be designing an architecture based on three tiers – web, application, and database - based on their current and future needs. The tiers are divided into three layers – presentation (web), business (application), and data (database) – with a server residing in each. Figure 2 illustrates Indie Tix’s architecture.
 
-Figure 2: 3-tier architecture design
+![Figure 2: Indie Tix's 3-tier architecture design](/images/figure2.png)
+
+Figure 2: Indie Tix's 3-tier architecture design
 
 The first component to be determined is the global load balancer, which has the following requirements:
 
@@ -42,8 +44,8 @@ Select ![Load Balancer Options](#load_balancer) link and review the Consideratio
 | NginX | (+)Geolocation and ratio/weight balancing capable, (-)Higher maintenance (must manage operating system as well), (-)No management console (CLI and configuration files only) |
 | Citrix NetScaler VPX | (+)GSLB protects against failures of servers and sites, (+)Geolocation and ratio/weight balancing capable, (+)Virutal appliance = low maintenance, (-)Requires an appliance, or appliances, for each site |
 
-Table 1: Global load balancer options for online ticket retailer
+Table 1: Global load balancer options for Indie Tix
 
-Based on the pros and cons presented in Table 1, they the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on your solution design requirement. 
+Based on the pros and cons presented in Table 1, Indie selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. You use the Design Decision Tool to match the best component option based on your solution design requirement. 
 
 Return to [Components](README.md)
