@@ -1,6 +1,4 @@
-# IBM Cloud Design Decision Tool 
-
-![Compute](/images/compute_icon.png)
+# ![Compute](/images/compute_icon.png) - IBM Cloud Design Decision Tool 
 
 ![Options](/images/compute.png)
 
