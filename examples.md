@@ -18,9 +18,9 @@ A high-level example workload has been provided to assist you with learning how 
 
 ## Online Ticket Retailer
 
-An online ticket retailer promotes music to mainstream listeners by putting on concerts in intimate venues (500 to 3,500 seats). In their current environment they are facing increases in demand as artists are gaining popularity due to Internet exposure and mainstream air play.
+An online ticket retailer promotes music to mainstream listeners by putting on concerts in intimate venues (500 to 3,500 seats). Their current environment is facing increases in demand as artists are gaining popularity due to Internet exposure and mainstream air play.
 
-They will be designing a 3-tier architecture - web, application, and database - based on their current and future needs. The tiers are divided into three layers – presentation (web), business (application), and data (database) – with a server residing in each. Figure 2 illustrates their architecture.
+They will be designing a 3-tier architecture - web, application, and database - based on their current and future needs. The tiers are divided into three layers – presentation (web), business (application), and data (database) – with servers residing in each. Figure 2 illustrates their architecture.
 
 ![Figure 2: 3-tier architecture design](/images/figure3.png)
 
@@ -34,7 +34,7 @@ The first component to be determined is the global load balancer, which has the 
 * Support 7,500 unique shoppers daily and 100 connections per second
 * Support highly variable and unpredictable compute requirements
 
-Select ![Load Balancer Options](#load_balancer) link and review the Considerations and Caveats for each option.  Your choices should be narrowed down to:
+Select [![Load Balancers](#/images/load_balancer_icon)](load_balancer.md) and review the Considerations and Caveats for each option.  Your choices should be narrowed down to:
 
 | Options | Pros(+)/Cons(-) |
 | ------- | ------------------- |
