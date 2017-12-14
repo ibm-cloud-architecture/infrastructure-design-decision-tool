@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - <img src="/images/compute_icon.png" alt="Compute" style="width: 50px;"/>
+## IBM Cloud Design Decision Tool - ![Compute](/images/compute_icon.png)
 
 ![Options](/images/compute.png)
 
