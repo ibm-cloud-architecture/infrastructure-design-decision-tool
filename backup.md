@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - Backup
+![Backup](/images/backup_icon.png)
 
 ![Options](/images/backup.png)
 
