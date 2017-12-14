@@ -1,4 +1,4 @@
-![Load Balancer](/images/load_balanceri_icon.png)
+![Load Balancer](/images/load_balancer_icon.png)
 
 ![Options](/images/load_balancer.png)
 
