@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - Message Queues
+![Message Queues](/images/message_queues_icon.png)
 
 ![Options](/images/message_queues.png)
 

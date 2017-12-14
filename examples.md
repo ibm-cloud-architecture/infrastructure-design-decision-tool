@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - Examples
+![Examples](/images/examples_icon.png
 
 ## Using the IBM Cloud Design Decision Tool
 
