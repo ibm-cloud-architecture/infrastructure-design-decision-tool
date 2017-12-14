@@ -40,9 +40,7 @@ Select [![Load Balancers](/images/load_balancer_icon.png)](load_balancer.md) and
 | --- | --- | --- |
 | Dyn.com | Geolocation and ratio/weight balancing | No provisioning on private network |
 | NginX | Geolocation and ratio/weight balancing | Higher maintenance, No management console |
-| Citrix NetScaler VPX | Protects against failures of servers/sites, 
-Geolocation and ratio/weight balancing, 
-Lower maintenance | Appliance(s) for each site |
+| Citrix NetScaler VPX | Protects against failures of servers/sites, Geolocation and ratio/weight balancing, Low maintenance | Appliance(s) for each site |
 
 Table 1: Global load balancer options for online ticket retailer
 
