@@ -34,7 +34,7 @@ The first component to be determined is the global load balancer, which has the 
 * Support 7,500 unique shoppers daily and 100 connections per second
 * Support highly variable and unpredictable compute requirements
 
-Select [![Load Balancers](#/images/load_balancer_icon)](load_balancer.md) and review the Considerations and Caveats for each option.  Your choices should be narrowed down to:
+Select [![Load Balancers](#/images/load_balancer_icon.png)](load_balancer.md) and review the Considerations and Caveats for each option.  Your choices should be narrowed down to:
 
 | Options | Pros(+)/Cons(-) |
 | ------- | ------------------- |
