@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - Availability
+![Availability](/images/availability_icon.png)
 
 ![Options](/images/availability.png)
 

@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - Firewall
+![Firewall](/images/firewall_icon.png)
 
 ![Options](/images/firewall.png)
 
