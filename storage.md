@@ -1,4 +1,6 @@
-# IBM Cloud Design Decision Tool - Storage
+# IBM Cloud Design Decision Tool
+
+![Storage](/images/storage_icon.png)
 
 ![Options](/images/storage.png)
 
