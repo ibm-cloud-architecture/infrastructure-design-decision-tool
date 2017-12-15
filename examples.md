@@ -1,4 +1,4 @@
-![Examples](/images/examples_icon.png)
+IBM Cloud Design Decision Tool - Examples
 
 ## Using the IBM Cloud Design Decision Tool
 
@@ -39,8 +39,8 @@ Select [![Load Balancers](/images/load_balancer_icon.png)](load_balancer.md) and
 | Options | Pros | Cons |
 | --- | --- | --- |
 | Dyn.com | Geolocation and ratio/weight balancing | No provisioning on private network |
-| NginX | Geolocation and ratio/weight balancing | Higher maintenance, No management console |
-| Citrix NetScaler VPX | Protects against failures of servers/sites, Geolocation and ratio/weight balancing, Low maintenance | Appliance(s) for each site |
+| NginX | Geolocation and ratio/weight balancing | Higher maintenance<br>No management console |
+| Citrix NetScaler VPX | Protects against failures of servers/sites<br>Geolocation and ratio/weight balancing<br>Low maintenance | Appliance(s) for each site |
 
 Table 1: Global load balancer options for online ticket retailer
 
