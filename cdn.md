@@ -1,4 +1,4 @@
-![CDN](/images/cdn_icon.png)
+# IBM Cloud Design Decision Tool - CDN
 
 ![Options](/images/cdn.png)
 
