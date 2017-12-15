@@ -40,7 +40,7 @@ Select [![Load Balancers](/images/load_balancer_icon.png)](load_balancer.md) and
 | --- | --- | --- |
 | Dyn.com | Geolocation and ratio/weight balancing capable | No provisioning on the private network |
 | NginX | Geolocation and ratio/weight balancing capable | Higher maintenance (must manage operating system as well)<br>No management console (CLI and config files only) |
-| Citrix NetScaler VPX | GSLB protects against failures of servers and sites<br>Geolocation and ratio/weight balancing capable<br>Deployed as a virtual appliance reduces costs and maintenance | Requires an appliance or appliances for each site implementation |
+| Citrix NetScaler VPX | * GSLB protects against failures of servers and sites<br>i* Geolocation and ratio/weight balancing capable<br>i* Deployed as a virtual appliance reduces costs and maintenance | * Requires an appliance or appliances for each site implementation |
 
 Table 1: Global load balancer options for online ticket retailer
 
