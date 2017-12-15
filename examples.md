@@ -39,8 +39,8 @@ Select [![Load Balancers](/images/load_balancer_icon.png)](load_balancer.md) and
 | Options | Pros | Cons |
 | --- | --- | --- |
 | Dyn.com | Geolocation and ratio/weight balancing | No provisioning on private network |
-| NginX | Geolocation and ratio/weight balancing | Higher maintenance requiring OS management<br>No management console |
-| Citrix NetScaler VPX | Protects against failures of servers/sites<br>Geolocation and ratio/weight balancing<br>Virtual appliance reduces costs/maintenance | Requires appliance(s)for each site |
+| NginX | Geolocation and ratio/weight balancing | Higher maintenance<br>No management console |
+| Citrix NetScaler VPX | Protects against failures of servers/sites<br>Geolocation and ratio/weight balancing<br>Virtual appliance reduces maintenance | Requires appliance(s) for each site |
 
 Table 1: Global load balancer options for online ticket retailer
 
