@@ -1,4 +1,4 @@
-![Load Balancer](/images/load_balancer_icon.png)
+# IBM Cloud Design Decision Tool - Load Balancer
 
 ![Options](/images/load_balancer.png)
 

@@ -1,4 +1,4 @@
-![Storage](/images/storage_icon.png)
+# IBM Cloud Design Decision Tool - Storage
 
 ![Options](/images/storage.png)
 

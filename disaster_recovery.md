@@ -1,4 +1,4 @@
-![Disaster Recovery](/images/disaster_recovery_icon.png)
+# IBM Cloud Design Decision Tool - Disaster Recovery
 
 ![Options](/images/disaster_recovery.png)
 

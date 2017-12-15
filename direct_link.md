@@ -1,4 +1,4 @@
-![Direct Link](/images/direct_link_icon.png)
+# IBM Cloud Design Decision Tool - Direct Link
 
 ![Options](/images/direct_link.png)
 

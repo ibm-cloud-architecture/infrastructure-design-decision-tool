@@ -1,4 +1,4 @@
-![BYOIP](/images/byoip_icon.png)
+# IBM Cloud Design Decision Tool - BYOIP
 
 ![Options](/images/byoip.png)
 

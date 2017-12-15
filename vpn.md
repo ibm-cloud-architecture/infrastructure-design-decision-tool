@@ -1,4 +1,4 @@
-![VPN](/images/vpn_icon.png)
+# IBM Cloud Design Decision Tool - VPN
 
 ![Options](/images/vpn.png)
 

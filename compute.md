@@ -1,4 +1,4 @@
-![Compute](/images/compute_icon.png)
+# IBM Cloud Design Decision Tool - Compute
 
 ![Options](/images/compute.png)
 
