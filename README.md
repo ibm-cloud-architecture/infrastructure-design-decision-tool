@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool ![Design Decision Tool Logo)(/images/design_decision_tool_logo.png)
+# IBM Cloud Design Decision Tool ![Tool Icon](/images/tool_icon.png)
 
 Compare your alternatives from the following components to help you in designing and building your ideal IBM Cloud solution that best meets your workload requirements:
 
