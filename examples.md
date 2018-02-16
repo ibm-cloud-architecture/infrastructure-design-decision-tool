@@ -8,7 +8,7 @@ Use this information during your solution design to help select the best options
 
 ### How to use the Design Decision Tool
 
-The Design Decision Tool supports the solution design process (Figure 1) by stepping you through each component of your solution to help you determine which options to use based on your requirements.  You are encouraged to use the design process and decision tool when designing your IBM Cloud solution.
+The Design Decision Tool supports the solution design process (Figure 1)  by stepping you through each component of your solution to help you determine which options to use based on your requirements.  You are encouraged to use the design process and decision tool when designing your IBM Cloud solution.
 
 ![Figure 1: Solution design process](/images/figure1.png)
 
@@ -20,11 +20,13 @@ A high-level example workload has been provided to assist you with learning how 
 
 An online ticket retailer promotes music to mainstream listeners by putting on concerts in intimate venues (500 to 3,500 seats). Their current environment is facing increases in demand as artists are gaining popularity due to Internet exposure and mainstream air play.
 
-They will be designing a 3-tier architecture - web, application, and database - based on their current and future needs. The tiers are divided into three layers – presentation (web), business (application), and data (database) – with servers residing in each. Figure 2 illustrates their architecture.
+They will be designing a 3-tier architecture - web, application, and database - based on their current and future needs. The tiers are divided into three layers – presentation (web), business (application), and data (database) – with servers residing in each. <!--- Figure 2 illustrates their architecture. --->
 
+<!---
 ![Figure 2: 3-tier architecture design](/images/figure3.png)
 
 Figure 2: 3-tier architecture design
+--->
 
 The first component to be determined is the global load balancer, which has the following requirements:
 

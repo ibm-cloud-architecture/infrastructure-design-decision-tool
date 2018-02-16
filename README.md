@@ -1,6 +1,6 @@
 # IBM Cloud Design Decision Tool ![Tool Icon](/images/tool_icon.png)
 
-Compare your alternatives from the following components to help you in designing and building your ideal IBM Cloud solution that best meets your workload requirements:
+Compare your alternatives from the following components to help you in designing and building your custom IBM Cloud solution that best meets your workload requirements:
 
 ## Components
 
