@@ -2,4 +2,4 @@
 
 ![Options](/images/disaster_recovery.png)
 
-Return to [Components](README.md)
+Return to [Components Menu](../README.md)

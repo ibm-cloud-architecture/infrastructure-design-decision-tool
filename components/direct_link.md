@@ -2,4 +2,4 @@
 
 ![Options](/images/direct_link.png)
 
-Return to [Components](README.md)
+Return to [Components Menu](../README.md)

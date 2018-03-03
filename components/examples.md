@@ -49,4 +49,4 @@ Table 1: Global load balancer options for online ticket retailer
 
 Based on the pros and cons presented in Table 1, they selected the Citrix NetScaler VPX for their global load balancer. The next component is the firewall, then the local load balancer, and so on. Use the Design Decision Tool to match the best component option based on your solution design requirements. 
 
-Return to [Components](README.md)
+Return to [Components Menu](../README.md)

@@ -2,4 +2,4 @@
 
 ![Options](/images/availability.png)
 
-Return to [Components](README.md)
+Return to [Components Menu](../README.md)
