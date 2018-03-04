@@ -2,4 +2,4 @@
 
 ![Options](/images/load_balancer.png)
 
-Return to [Components Menu](../README.md)
+Return to [Components](/README.md)

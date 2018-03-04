@@ -2,4 +2,4 @@
 
 ![Options](/images/message_queues.png)
 
-Return to [Components Menu](../README.md)
+Return to [Components](/README.md)
