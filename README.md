@@ -16,4 +16,4 @@ Compare alternatives to help you design and build your custom IBM Cloud solution
 
 ## Disclaimer
 
-Details provided in this tool are subject to change and provided for initial comparison use only.  Refer to the IBM Cloud Docs for complete details of the IBM Cloud options.
+Details provided in this tool are subject to change and provided for initial comparison use only.  Refer to the IBM Cloud Docs for details of the IBM Cloud options.
