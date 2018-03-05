@@ -13,3 +13,7 @@ Compare alternatives to help you design and build your custom IBM Cloud solution
 | [![BYOIP](/images/byoip_icon.png)](byoip.md) |
 | [![CDN](/images/cdn_icon.png)](cdn.md) | 
 -->
+
+## Disclaimer
+
+Details provided in this tool are subject to change and provided for initial comparison use only.  Refer to the IBM Cloud Docs for complete details of the IBM Cloud options.
