@@ -14,6 +14,4 @@ Compare alternatives to help you design and build your custom IBM Cloud solution
 | [![CDN](/images/cdn_icon.png)](cdn.md) | 
 -->
 
-## Disclaimer
-
-Details provided in this tool are provided best effort and can lag behind product changes.  Refer to IBM Cloud Docs for complete product details.
+Note: Details provided in this tool are provided best effort and can lag behind product changes.  Refer to IBM Cloud Docs for complete product details.
