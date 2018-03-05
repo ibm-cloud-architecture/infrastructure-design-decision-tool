@@ -1,6 +1,6 @@
 # IBM Cloud Design Decision Tool ![Tool Icon](/images/tool_icon.png)
 
-Compare alternatives to help you design and build your custom IBM Cloud solution that best meets your workload requirements utilizing the tables in the following components that include an option descriptions table with some of the primary considerations and caveats, a feature comparisons table for side-by-side comparisons, and an optional workload examples table matching some use cases with potential IBM Cloud options.
+Compare alternatives to help you design and build your custom IBM Cloud solution that best meets your workload requirements by reviewing the tables in the following components that includes an option descriptions table with some of the primary considerations and caveats, a feature comparisons table for side-by-side comparisons, and a workload examples table on some components that matches use cases with potential IBM Cloud options.
 
 ## Components
 
