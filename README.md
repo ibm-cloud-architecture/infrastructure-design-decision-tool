@@ -4,11 +4,12 @@ Compare alternatives to help you design and build your custom IBM Cloud solution
 
 ## Components
 
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| [![Compute](/images/compute_icon.png)](/components/compute.md)  | [![Firewall](/images/firewall_icon.png)](/components/firewall.md) | [![VPN](/images/vpn_icon.png)](/components/vpn.md) | [![Availability](/images/availability_icon.png)](/components/availability.md) | [![Message Queues](/images/message_queues_icon.png)](/components/message_queues.md) |
-| [![Storage](/images/storage_icon.png)](/components/storage.md) | [![Load Balancer](/images/load_balancer_icon.png)](/components/load_balancer.md) | [![Direct Link](/images/direct_link_icon.png)](/components/direct_link.md) | [![Disaster Recovery](/images/disaster_recovery_icon.png)](/components/disaster_recovery.md) | [![Examples](/images/examples_icon.png)](/components/examples.md) |
-| [![Backup](/images/backup_icon.png)](/components/backup.md) | | | | | 
+| | | | |
+| :---: | :---: | :---: | :---: |
+| [![Compute](/images/compute_icon.png)](/components/compute.md)  | [![VPN](/images/vpn_icon.png)](/components/vpn.md) | [![Availability](/images/availability_icon.png)](/components/availability.md) | [![Message Queues](/images/message_queues_icon.png)](/components/message_queues.md) |
+| [![Storage](/images/storage_icon.png)](/components/storage.md) | [![Direct Link](/images/direct_link_icon.png)](/components/direct_link.md) | [![Disaster Recovery](/images/disaster_recovery_icon.png)](/components/disaster_recovery.md) | [![Examples](/images/examples_icon.png)](/components/examples.md) |
+| [![Load Balancer](/images/load_balancer_icon.png)](/components/load_balancer.md) | [![Backup](/images/backup_icon.png)](/components/backup.md) | | | | 
+| [![Firewall](/images/firewall_icon.png)](/components/firewall.md) | | | | | 
 <!--
 | [![BYOIP](/images/byoip_icon.png)](byoip.md) |
 | [![CDN](/images/cdn_icon.png)](cdn.md) | 
