@@ -3,6 +3,6 @@
 | Date | Componpent | Description |
 | --- | --- | --- |
 | 5/7/17 | Direct Link | Added Connect option and Workload Examples Table. |
-| 5/4/17 | Backup | Moved Veeam from VMware to Standard section to include non-VMware use. |
+| 5/4/17 | Backup | Moved Veeam to Standard section for VMware and non-VMware use. |
 
 Return to [Components](/README.md)
