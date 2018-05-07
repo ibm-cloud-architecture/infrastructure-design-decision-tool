@@ -15,7 +15,4 @@ Compare alternatives to help you design and build your custom [IBM Cloud](https:
 | [![CDN](/images/cdn_icon.png)](cdn.md) | 
 -->
 
-###### Notes: 
-###### 1. Details provided in this tool are provided best effort and can lag behind product changes.  
-###### 2. Refer to [IBM Cloud Docs](https://console.bluemix.net/docs/) for complete product details.
-###### 3. Refer to [Change Log](/components/change_log.md) for recent changes to this tool.
+###### Note: Details provided in this tool are provided best effort and can lag behind product changes.  Refer to [IBM Cloud Docs](https://console.bluemix.net/docs/) for complete product details.  Refer to [Change Log](/components/change_log.md) for recent changes to this tool.
