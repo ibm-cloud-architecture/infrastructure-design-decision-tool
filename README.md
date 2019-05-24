@@ -6,21 +6,21 @@ Compare alternatives to help you design and build your custom [IBM Cloud](https:
 
 | | 
 | :---: | 
-| [![Compute]]](/components/compute.md) | 
-| [![Storage]]](/components/storage.md) | 
-| [![Firewall]](/components/firewall.md) | 
-| [![VPN]](/components/vpn.md) | 
-| [![Load Balancer]](/components/load_balancer.md) | 
-| [![Direct Link]](/components/direct_link.md) | 
-| [![Edge Services]](/components/edge.md) | 
-| [![Message Queues]](/components/message_queues.md) | 
-| [![Backup]](/components/backup.md) | 
-| [![Disaster Recovery]](/components/disaster_recovery.md) | 
-| [![Availability]](/components/availability.md) | 
-| [![Examples]](/components/examples.md) |
+| [Compute](/components/compute.md) | 
+| [Storage](/components/storage.md) | 
+| [Firewall](/components/firewall.md) | 
+| [VPN](/components/vpn.md) | 
+| [Load Balancer](/components/load_balancer.md) | 
+| [Direct Link](/components/direct_link.md) | 
+| [Edge Services](/components/edge.md) | 
+| [Message Queues](/components/message_queues.md) | 
+| [Backup](/components/backup.md) | 
+| [Disaster Recovery](/components/disaster_recovery.md) | 
+| [Availability](/components/availability.md) | 
+| [Examples](/components/examples.md) |
 <!--
-| [![BYOIP]](byoip.md) |
-| [![CDN]](cdn.md) | 
+| [BYOIP](byoip.md) |
+| [CDN](cdn.md) | 
 -->
 
 ###### Note: Details provided in this tool are provided best effort and can lag behind product changes - refer to [IBM Cloud Docs](https://cloud.ibm.com/docs/) for complete product details.
