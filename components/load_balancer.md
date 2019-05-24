@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - Load Balancer
+# IBM Cloud Classic Infrastructure Design Decision Tool - Load Balancer
 
 ![Options](/images/load_balancer.png)
 

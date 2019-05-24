@@ -1,4 +1,4 @@
-# IBM Cloud Design Decision Tool - Storage
+# IBM Cloud Classic Infrastructure Design Decision Tool - Storage
 
 ![Options](/images/storage.png)
 
