@@ -1,4 +1,4 @@
-# IBM Cloud Classic Infrastructure Design Decision Tool - Firewall
+## IBM Cloud Classic Infrastructure Design Decision Tool - Firewall
 
 ![Options](/images/firewall.png)
 

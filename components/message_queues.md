@@ -1,4 +1,4 @@
-# IBM Cloud Classic Infrastructure Design Decision Tool - Message Queues
+## IBM Cloud Classic Infrastructure Design Decision Tool - Message Queues
 
 ![Options](/images/message_queues.png)
 

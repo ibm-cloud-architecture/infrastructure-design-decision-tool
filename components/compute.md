@@ -1,4 +1,4 @@
-# IBM Cloud Classic Infrastructure Design Decision Tool - Compute
+## IBM Cloud Classic Infrastructure Design Decision Tool - Compute
 
 ![Options](/images/compute.png)
 

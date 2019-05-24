@@ -1,4 +1,4 @@
-# IBM Cloud Classic Infrastructure Design Decision Tool - Direct Link
+## IBM Cloud Classic Infrastructure Design Decision Tool - Direct Link
 
 ![Options](/images/direct_link.png)
 

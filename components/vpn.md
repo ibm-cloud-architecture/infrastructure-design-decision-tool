@@ -1,4 +1,4 @@
-# IBM Cloud Classic Infrastructure Design Decision Tool - VPN
+## IBM Cloud Classic Infrastructure Design Decision Tool - VPN
 
 ![Options](/images/vpn.png)
 

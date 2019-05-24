@@ -1,4 +1,4 @@
-# IBM Cloud Classic Infrastructure Design Decision Tool - Examples
+## IBM Cloud Classic Infrastructure Design Decision Tool - Examples
 
 ## Using the IBM Cloud Classic Infrastructure Design Decision Tool
 
