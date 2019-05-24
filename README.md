@@ -4,7 +4,7 @@ Compare alternatives to help you design and build your custom [IBM Cloud](https:
 
 ## Components
 
-| :---: |
+| |
 | [Compute](/components/compute.md) | 
 | [Storage](/components/storage.md) | 
 | [Firewall](/components/firewall.md) | 
