@@ -1,14 +1,14 @@
-# IBM Cloud Design Decision Tool - Examples
+# IBM Cloud Classic Infrastructure Design Decision Tool - Examples
 
-## Using the IBM Cloud Design Decision Tool
+## Using the IBM Cloud Classic Infrastructure Design Decision Tool
 
-The IBM Cloud Design Decision Tool contains the potential advantages and disadvantages of the available components that you can use for designing and building your IBM Cloud solution.  
+The IBM Cloud Classic Infrastructure Design Decision Tool contains the potential advantages and disadvantages of the available components that you can use for designing and building your IBM Cloud solution.  
 
 Use this information during your solution design to help select the best options to meet your workload requirements.  More information is provided in the [Solutions Design training class](http://www.softlayer.com/training-courses) which takes you through hands-on workshops to assist you with making architecture choices for your IBM Cloud solution.
 
-### How to use the Design Decision Tool
+### How to use the Classic Infrastructure Design Decision Tool
 
-The Design Decision Tool supports the solution design process (Figure 1)  by stepping you through each component of your solution to help you determine which options to use based on your requirements.  You are encouraged to use the design process and decision tool when designing your IBM Cloud solution.
+The Classic Infrastructure Design Decision Tool supports the solution design process (Figure 1)  by stepping you through each component of your solution to help you determine which options to use based on your requirements.  You are encouraged to use the design process and decision tool when designing your IBM Cloud solution.
 
 ![Figure 1: Solution design process](/images/figure1.png)
 
