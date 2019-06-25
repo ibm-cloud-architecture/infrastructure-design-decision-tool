@@ -2,8 +2,6 @@
 
 Compare Classic Infrastructure alternatives to help you design and build your custom [IBM Cloud](https://www.ibm.com/cloud/) Classic Infrastructure solution that best meets your workload requirements by reviewing 1) option description tables with primary considerations and caveats, and 2) feature comparison tables for side-by-side comparisons.
 
-This tool is for Classic Infrastructure only and not VPC - refer to [VPC in IBM Cloud Docs](https://cloud.ibm.com/docs/vpc-on-classic?topic=vpc-on-classic-getting-started) for VPC details.
-
 ## Components
 
 | |
@@ -26,3 +24,5 @@ This tool is for Classic Infrastructure only and not VPC - refer to [VPC in IBM 
 -->
 
 ###### Note: Details provided in this tool are provided best effort and can lag behind product changes - refer to [IBM Cloud Docs](https://cloud.ibm.com/docs/) for complete product details.
+
+###### Note: This tool is for Classic Infrastructure only and not VPC - refer to [VPC in IBM Cloud Docs](https://cloud.ibm.com/docs/vpc-on-classic?topic=vpc-on-classic-getting-started) for VPC details.
