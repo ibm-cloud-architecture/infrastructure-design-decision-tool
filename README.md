@@ -12,11 +12,11 @@ Compare Classic Infrastructure alternatives to help you design and build your cu
 | [VPN](/components/vpn.md) | 
 | [Load Balancer](/components/load_balancer.md) | 
 | [Direct Link](/components/direct_link.md) | 
-| [Edge Services](/components/edge.md) | 
 | [Backup](/components/backup.md) | 
 | [Disaster Recovery](/components/disaster_recovery.md) | 
 | [Examples](/components/examples.md) |
 <!--
+| [Edge Services](/components/edge.md) | 
 | [Message Queues](/components/message_queues.md) | 
 | [Availability](/components/availability.md) | 
 | [BYOIP](byoip.md) |
