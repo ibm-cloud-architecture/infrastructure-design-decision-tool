@@ -14,6 +14,7 @@ Compare Classic Infrastructure alternatives to help you design and build your cu
 | [Direct Link](/components/direct_link.md) | 
 | [Backup](/components/backup.md) | 
 | [Disaster Recovery](/components/disaster_recovery.md) | 
+| [Availability](/components/availability.md) | 
 | [Examples](/components/examples.md) |
 <!--
 | [Edge Services](/components/edge.md) | 
