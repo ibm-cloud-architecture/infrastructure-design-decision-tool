@@ -4,24 +4,23 @@ Compare Classic Infrastructure alternatives to help you design and build your cu
 
 ## Components
 
-| |
-| :---: |
-| [Compute](/components/compute.md) | 
-| [Storage](/components/storage.md) | 
-| [Firewall](/components/firewall.md) | 
-| [VPN](/components/vpn.md) | 
-| [Load Balancer](/components/load_balancer.md) | 
-| [Direct Link](/components/direct_link.md) | 
-| [Backup](/components/backup.md) | 
-| [Disaster Recovery](/components/disaster_recovery.md) | 
-| [Availability](/components/availability.md) | 
-| [Examples](/components/examples.md) |
+| Tool Components | Related Docs |
+| :---: | :--: |
+| [Compute](/components/compute.md) || 
+| [Storage](/components/storage.md) || 
+| [Firewall](/components/firewall.md) | [Exploring Firewalls](https://cloud.ibm.com/docs/infrastructure/fortigate-10g?topic=fortigate-10g-exploring-firewalls) | 
+| [VPN](/components/vpn.md) || 
+| [Load Balancer](/components/load_balancer.md) | [Exploring Load Balancers](https://cloud.ibm.com/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore) |
+| [Direct Link](/components/direct_link.md) || 
+| [Backup](/components/backup.md) || 
+| [Disaster Recovery](/components/disaster_recovery.md) || 
+| [Availability](/components/availability.md) || 
+| [Examples](/components/examples.md) ||
 <!--
-| [Edge Services](/components/edge.md) | 
-| [Message Queues](/components/message_queues.md) | 
-| [Availability](/components/availability.md) | 
-| [BYOIP](byoip.md) |
-| [CDN](cdn.md) | 
+| [Edge Services](/components/edge.md) || 
+| [Message Queues](/components/message_queues.md) || 
+| [BYOIP](byoip.md) ||
+| [CDN](cdn.md) || 
 -->
 
 ###### Note: This tool is for Classic Infrastructure only and not VPC - refer to [VPC in IBM Cloud Docs](https://cloud.ibm.com/docs/vpc-on-classic?topic=vpc-on-classic-getting-started) for VPC details.
