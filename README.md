@@ -6,7 +6,7 @@ Compare Classic Infrastructure alternatives to help you design and build your cu
 
 | Tables | Docs |
 | :---: | :--: |
-| [Compute Table](/components/compute.md) || 
+| [Compute Table](/components/compute.md) | [Virtual Server Comparison](https://cloud.ibm.com/docs/vsi?topic=virtual-servers-getting-started-tutorial) [Bare Metal Comparison](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-about-bm)| 
 | [Storage Table](/components/storage.md) || 
 | [Firewall Table](/components/firewall.md) | [Firewall Comparison](https://cloud.ibm.com/docs/infrastructure/fortigate-10g?topic=fortigate-10g-exploring-firewalls) | 
 | [VPN Table](/components/vpn.md) || 
