@@ -4,17 +4,17 @@ Compare Classic Infrastructure alternatives to help you design and build your cu
 
 ## Components
 
-| Component | Related Docs |
+| Tables | Docs |
 | :---: | :--: |
-| [Compute](/components/compute.md) || 
-| [Storage](/components/storage.md) || 
-| [Firewall](/components/firewall.md) | [Exploring Firewalls](https://cloud.ibm.com/docs/infrastructure/fortigate-10g?topic=fortigate-10g-exploring-firewalls) | 
-| [VPN](/components/vpn.md) || 
-| [Load Balancer](/components/load_balancer.md) | [Exploring Load Balancers](https://cloud.ibm.com/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore) |
-| [Direct Link](/components/direct_link.md) || 
-| [Backup](/components/backup.md) || 
-| [Disaster Recovery](/components/disaster_recovery.md) || 
-| [Availability](/components/availability.md) || 
+| [Compute Table](/components/compute.md) || 
+| [Storage Table](/components/storage.md) || 
+| [Firewall Table](/components/firewall.md) | [Firewall Comparisons](https://cloud.ibm.com/docs/infrastructure/fortigate-10g?topic=fortigate-10g-exploring-firewalls) | 
+| [VPN Table](/components/vpn.md) || 
+| [Load Balancer Table](/components/load_balancer.md) | [Load Balancer Comparisons](https://cloud.ibm.com/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore) |
+| [Direct Link Table](/components/direct_link.md) | [Direct Link Comparisons](https://cloud.ibm.com/docs/infrastructure/direct-link?topic=direct-link-about-ibm-cloud-direct-link) | 
+| [Backup Table](/components/backup.md) || 
+| [Disaster Recovery Table](/components/disaster_recovery.md) || 
+| [Availability Table](/components/availability.md) || 
 | [Examples](/components/examples.md) ||
 <!--
 | [Edge Services](/components/edge.md) || 
