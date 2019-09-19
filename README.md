@@ -4,7 +4,7 @@ Compare Classic Infrastructure alternatives to help you design and build your cu
 
 ## Components
 
-| Tool Components | Related Docs |
+| Component | Related Docs |
 | :---: | :--: |
 | [Compute](/components/compute.md) || 
 | [Storage](/components/storage.md) || 
