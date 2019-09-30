@@ -12,7 +12,7 @@ Compare Classic Infrastructure alternatives to help you design and build your cu
 | [VPN Table](/components/vpn.md) | [Firewall/VPN Comparison](https://cloud.ibm.com/docs/infrastructure/fortigate-10g?topic=fortigate-10g-exploring-firewalls) | 
 | [Load Balancer Table](/components/load_balancer.md) | [Load Balancer Comparison](https://cloud.ibm.com/docs/infrastructure/loadbalancer-service?topic=loadbalancer-service-explore) |
 | [Direct Link Table](/components/direct_link.md) | [Direct Link Comparison](https://cloud.ibm.com/docs/infrastructure/direct-link?topic=direct-link-about-ibm-cloud-direct-link) | 
-| [Backup Table](/components/backup.md) | [Cloud Backup Description](https://cloud.ibm.com/docs/infrastructure/Backup?topic=Backup-getting-started#getting-started) <br/> [Object Storage Description](https://cloud.ibm.com/docs/services/cloud-object-storage?topic=cloud-object-storage-about-ibm-cloud-object-storage) <br/> [Veeam Availability Suite](https://cloud.ibm.com/catalog/infrastructure/veeam-availability-suite-classic) | 
+| [Backup Table](/components/backup.md) | [Cloud Backup Description](https://cloud.ibm.com/docs/infrastructure/Backup?topic=Backup-getting-started#getting-started) <br/> [Object Storage Description](https://cloud.ibm.com/docs/services/cloud-object-storage?topic=cloud-object-storage-about-ibm-cloud-object-storage) <br/> [Veeam Description](https://cloud.ibm.com/catalog/infrastructure/veeam-availability-suite-classic) | 
 | [Disaster Recovery Table](/components/disaster_recovery.md) || 
 | [Availability Table](/components/availability.md) || 
 | [Examples](/components/examples.md) ||
